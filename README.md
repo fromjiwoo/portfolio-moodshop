@@ -2,7 +2,7 @@
 
 - **개발기간** : ﻿2025.06.10 ~ 2025.06.30 (총 23일) 
 - **참여인원** : 5명  
-- **담당업무** : 제안, 기획, 회원 관리 페이지 구현, 젠체적인 웹페이지 디자
+- **담당업무** : 제안, 기획, 회원 관리 페이지 구현, 젠체적인 웹페이지 디자인인
 - **개발환경** : Tomcat 8.5, Oracle DB, Eclipse
 - **사용도구** : ﻿draw.io, Pencil, dbdiagram.io
 - **사용기술** : Spring Web, JSP, MyBatis, Java, JavaScript, SQL, MVC, API
@@ -87,10 +87,9 @@ ERD 이미지 첨부 (https://drive.google.com/file/d/1k9GaeLMlN2osdp51_JrL5P1w0
 
 |구분 | 화면 | 미리보기 |
 |----------|----------|----------|
-|공통| 메인화면 | <img width="746" alt="image" src="https://github.com/user-attachments/assets/6c95713b-f8a5-45d2-8f28-81abb075366f" /> |
-|공통| 회원가입 (주소api) | <img width="736" alt="image" src="https://github.com/user-attachments/assets/a63c4f22-351f-4f1b-9cf2-77495a53f5b2" /> |
-|공통| 회사소개 (deeplapi) | <img width="749" height="353" alt="image" src="https://github.com/user-attachments/assets/c69ed595-ebd2-4a51-ad87-b41359c4900c" /> <img width="748" height="355" alt="image" src="https://github.com/user-attachments/assets/f7027617-4d7f-410b-b9e1-210869e166dc" /> <img width="746" height="355" alt="image" src="https://github.com/user-attachments/assets/f7f50b56-008b-4d6f-9d11-45536bc7129a" /> |
-|공통| 적립방법 | <img width="741" height="357" alt="image" src="https://github.com/user-attachments/assets/8a2a88a6-7c8c-4e01-9127-9d2c8ea8a6e0" /> |
+|공통| 메인화면 | <img width="812" height="685" alt="image" src="https://github.com/user-attachments/assets/630bea67-783b-45d5-b280-cb297cb8f702" /> |
+|공통| 회원가입 | <img width="1055" height="469" alt="image" src="https://github.com/user-attachments/assets/ca7a269c-8c34-46e5-8b1a-37b4510e27da" /> |
+|공통| 상품상세페이지 | <img width="879" height="473" alt="image" src="https://github.com/user-attachments/assets/9323d57e-86be-4fac-b7e5-bee0d5420e2b" /> |
 |유저| 유저채팅 | <img width="743" height="353" alt="image" src="https://github.com/user-attachments/assets/4b0193dc-6e41-40aa-b39d-199032c6cb70" /> |
 |관리자| 관리자채팅| <img width="734" alt="image" src="https://github.com/user-attachments/assets/4a3681b6-f76b-4af9-bb9b-a54391470a99" /> |
 |유저| 나의 지갑| <img width="750" alt="image" src="https://github.com/user-attachments/assets/cebe28e8-1a11-47d9-a746-792e7d503d28" /> |
