@@ -1,11 +1,11 @@
 # 🛒 Mood Shop
 
-**개발기간** : ﻿2025.06.10 ~ 2025.06.30 (총 23일) 
-**참여인원** : 5명  
-**담당업무** : 제안, 기획, 회원 관리 페이지 구현, 젠체적인 웹페이지 디자
-**개발환경** : Tomcat 8.5, Oracle DB, Eclipse
-**사용도구** : ﻿draw.io, Pencil, dbdiagram.io
-**사용기술** : Spring Web, JSP, MyBatis, Java, JavaScript, SQL, MVC, API
+- **개발기간** : ﻿2025.06.10 ~ 2025.06.30 (총 23일) 
+- **참여인원** : 5명  
+- **담당업무** : 제안, 기획, 회원 관리 페이지 구현, 젠체적인 웹페이지 디자
+- **개발환경** : Tomcat 8.5, Oracle DB, Eclipse
+- **사용도구** : ﻿draw.io, Pencil, dbdiagram.io
+- **사용기술** : Spring Web, JSP, MyBatis, Java, JavaScript, SQL, MVC, API
 
 ---
 
