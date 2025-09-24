@@ -89,16 +89,17 @@ ERD 이미지 첨부 (https://drive.google.com/file/d/1k9GaeLMlN2osdp51_JrL5P1w0
 |----------|----------|----------|
 |공통| 메인화면 | <img width="812" height="685" alt="image" src="https://github.com/user-attachments/assets/630bea67-783b-45d5-b280-cb297cb8f702" /> |
 |공통| 회원가입 | <img width="1055" height="469" alt="image" src="https://github.com/user-attachments/assets/ca7a269c-8c34-46e5-8b1a-37b4510e27da" /> |
+|공통| 로그인 | <img width="894" height="475" alt="image" src="https://github.com/user-attachments/assets/d326e3bf-d1d8-4ae5-be2b-a344821813f5" /> |
 |공통| 상품상세페이지 | <img width="879" height="473" alt="image" src="https://github.com/user-attachments/assets/9323d57e-86be-4fac-b7e5-bee0d5420e2b" /> |
-|유저| 유저채팅 | <img width="743" height="353" alt="image" src="https://github.com/user-attachments/assets/4b0193dc-6e41-40aa-b39d-199032c6cb70" /> |
-|관리자| 관리자채팅| <img width="734" alt="image" src="https://github.com/user-attachments/assets/4a3681b6-f76b-4af9-bb9b-a54391470a99" /> |
-|유저| 나의 지갑| <img width="750" alt="image" src="https://github.com/user-attachments/assets/cebe28e8-1a11-47d9-a746-792e7d503d28" /> |
-|유저| 포인트 페이지 (다크모드) | <img width="750" alt="image" src="https://github.com/user-attachments/assets/7655bfd8-61e4-431e-9b09-cffaaaeaefeb" /> |
-|유저| 기부하기 | <img width="750" alt="image" src="https://github.com/user-attachments/assets/7304c463-6872-4e76-a511-597c1f5811a7" /> <img width="750" alt="image" src="https://github.com/user-attachments/assets/abd40aa5-6683-48eb-acd2-4a65caa3b6e2" /> |
-|유저| 포인트 선물하기 | <img width="939" height="489" alt="image" src="https://github.com/user-attachments/assets/a8533b00-eadc-40da-9436-0e70ec017ba7" /> |
-|유저| 포인트 보상 (광고보기) | <img width="734" height="353" alt="image" src="https://github.com/user-attachments/assets/8fb213cb-c670-4eda-8576-5500eaf88d0d" /> |
+|유저| 이벤트 페이지 | <img width="794" height="464" alt="image" src="https://github.com/user-attachments/assets/fd8b940e-22f6-43a9-be60-60adf835e0c6" /> |
+|유조| 오프라인 매장 찾기| <img width="702" height="390" alt="image" src="https://github.com/user-attachments/assets/12b42aeb-4ba9-4d13-aaf2-13fed4dd161d" /> |
+|유저| 결제하기| <img width="400" height="453" alt="image" src="https://github.com/user-attachments/assets/b7988708-66fe-44c4-ba80-412fc615cac7" /> |
+|유저| 결제 완료 페이지 | <img width="732" height="571" alt="image" src="https://github.com/user-attachments/assets/23a79f9d-794f-444d-b639-5d355cfc547b" /> |
+|유저| 마이페이지 | <img width="694" height="343" alt="image" src="https://github.com/user-attachments/assets/c94a4de6-27bf-4321-badc-74b4a821923d" /> |
+|유저| 주문내역 페이지 | <img width="718" height="399" alt="image" src="https://github.com/user-attachments/assets/3f1d40f0-4ad2-4b29-aae8-9aa42f6f675a" /> |
+|유저| 리뷰작성 페이지 | <img width="501" height="389" alt="image" src="https://github.com/user-attachments/assets/ad0b8d34-2245-4e13-bf17-b9099e331890" /> |
 |유저| 결제내역 | <img width="750" alt="image" src="https://github.com/user-attachments/assets/ebd3e3b7-aa2b-4999-8f33-78757fc65fc8" /> |
-|유저| 탄소중립포인트 조회 (codef api) | <img width="800" alt="image" src="https://github.com/user-attachments/assets/3e310db2-d359-4e80-800a-8a51e0b81a4d" /> <img width="939" height="398" alt="image" src="https://github.com/user-attachments/assets/57d90ae7-59d9-4cb0-a458-77a82b214710" /> |
+|유저| 찜목록 | <img width="692" height="374" alt="image" src="https://github.com/user-attachments/assets/38e60909-999c-4d15-84ad-7aca6211d98b" /> |
 |유저| 나무키우기 | <img width="727" height="353" alt="image" src="https://github.com/user-attachments/assets/28763204-a6a3-4d5b-8893-591e5d7eccac" /> <img width="729" height="352" alt="image" src="https://github.com/user-attachments/assets/aabe8c4e-0b32-43e6-8520-8741f818a189" /> |
 |유저| 나무키우기 (출석보상) | <img width="711" height="354" alt="image" src="https://github.com/user-attachments/assets/1a7b7dd3-69a9-45c6-a3ee-ccc215bc1875" /> |
 |유저| 나무키우기 (비료구매) |<img width="715" height="353" alt="image" src="https://github.com/user-attachments/assets/66a2d028-e088-45b3-88ba-fb50acebe37d" /> |
