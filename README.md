@@ -1,4 +1,4 @@
-<img width="604" height="320" alt="image" src="https://github.com/user-attachments/assets/d65428dc-d0c8-460a-b422-fcd87201423d" /># 🛒 Mood Shop
+# 🛒 Mood Shop
 
 - **개발기간** : ﻿2025.06.10 ~ 2025.06.30 (총 23일) 
 - **참여인원** : 5명  
