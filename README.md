@@ -156,4 +156,4 @@ ERD 이미지 첨부 (https://drive.google.com/file/d/1k9GaeLMlN2osdp51_JrL5P1w0
 - [📺 시연 영상 보기](https://drive.google.com/file/d/11aenAGHOXNpnOKYRPGKA2tLjNuQfC7b2/view?usp=drive_link)
 - [📑 발표 자료 (PPT)](https://drive.google.com/file/d/1fp_ESbaVc9Ueg8G1MSAh-5vwLG-0K0ko/view?usp=drive_link)
 - [📑 발표 자료 (pdf)](https://drive.google.com/file/d/1yLiWeerdpWLjofwh7jmJYIND-UUIviMq/view?usp=drive_link)
-- [📑 UML](https://drive.google.com/file/d/1eTnMEkVAo3sjbwMe9hfZk0VudriDB37-/view?usp=drive_link)
+- [📑 UML](https://drive.google.com/file/d/1aSoZ729n2RplP7ODnuL9xbBcsk4MIrdM/view?usp=drive_link)
