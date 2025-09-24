@@ -101,7 +101,7 @@ ERD 이미지 첨부 (https://drive.google.com/file/d/1k9GaeLMlN2osdp51_JrL5P1w0
 |유저| 장바구니 | <img width="800" height="445" alt="image" src="https://github.com/user-attachments/assets/f38b1634-147e-4278-931b-bd874381a803" /> |
 |유저| 찜목록 | <img width="692" height="374" alt="image" src="https://github.com/user-attachments/assets/38e60909-999c-4d15-84ad-7aca6211d98b" /> |
 |관리자| 회원통계 | <img width="389" height="429" alt="image" src="https://github.com/user-attachments/assets/83573a38-e9b3-44d3-bfe0-c354b876de6c" /> |
-|관리자| 상품관리 | <img width="636" height="339" alt="image src="https://github.com/user-attachments/assets/dd631d9a-f890-4548-bf0c-e34c19411e9f" /> |
+|관리자| 상품관리 | <img width="636" height="339" alt="스크린샷 2025-09-24 164452" src="https://github.com/user-attachments/assets/c9423b1e-a093-43bd-85f7-6ae8fa35adfe" /> |
 |관리자| 회원관리 | <img width="1294" height="552" alt="image" src="https://github.com/user-attachments/assets/67f429af-97c9-4eb2-9b3e-a63bd057488c" /> |
 
 </details>
